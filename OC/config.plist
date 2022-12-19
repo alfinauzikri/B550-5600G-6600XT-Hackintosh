@@ -1457,12 +1457,12 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K220403CDK3F7CB</string>
+			<string>F5K140104QXK3F7UE</string>
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
 			<data>
-			aGRLUZA9
+			GPZDm57h
 			</data>
 			<key>SpoofVendor</key>
 			<true/>
@@ -1471,9 +1471,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KHQXYDP7QM</string>
+			<string>F5KGH04EP7QM</string>
 			<key>SystemUUID</key>
-			<string>82D7E437-0C99-4271-809F-D6656AF6E9F8</string>
+			<string>5DBAB8B8-E840-4A18-A21D-364FD01139A6</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
