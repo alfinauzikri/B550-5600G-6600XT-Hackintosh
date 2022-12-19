@@ -33,7 +33,12 @@ OpenCore EFI for B550 Chipset Motherboard with AMD Ryzen 5 5600G Processor + Rad
 
 ## Tutorial
 
-- https://dortania.github.io/OpenCore-Install-Guide/
+- Creating the USB Installer : https://dortania.github.io/OpenCore-Install-Guide/
+- USB Fixes : https://dortania.github.io/OpenCore-Post-Install/usb/ and https://github.com/usbtoolbox/tool
+
+Tutorial on "USB Fixes" related to the UTBMap.kext and SSDT-SLEEP.aml files. Please pay close attention to the guidelines that have been provided.
+
+All kinds of errors and kernel panics, beyond my responsibility.
 
 ## Results
 ![Screenshot 2022-12-19 at 23 31 44](https://user-images.githubusercontent.com/14070303/208474954-27f296fe-ea67-4485-9874-0fc14e7dec94.png)
