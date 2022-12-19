@@ -48,4 +48,6 @@ All kinds of errors and kernel panics, beyond my responsibility.
 
 ![Screenshot 2022-12-19 at 23 43 21](https://user-images.githubusercontent.com/14070303/208476289-1a5a690a-b65e-45a9-963b-a565bee3276d.png)
 
+![Screenshot 2022-12-20 at 00 24 58](https://user-images.githubusercontent.com/14070303/208484200-d7a09d39-5366-41e8-ba68-456b565b1675.png)
+
 ![Screenshot 2022-12-19 at 23 44 47](https://user-images.githubusercontent.com/14070303/208476516-b0d11a7c-4832-4868-be55-cb92da6db780.png)
